@@ -1,0 +1,15 @@
+.dots {
+}
+.more {
+  display: none;
+}
+.read {
+  color: #ff6b09;
+  text-decoration-line: underline;
+}
+.about.more-text .more {
+  display: inline;
+}
+.about.more-text .dots {
+  display: none;
+}
